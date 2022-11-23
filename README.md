@@ -44,7 +44,7 @@ being executed with `199` passed through as an argument to the function.
 Executing the `scuberGreetingForFeet` function with the argument should return
 `"This one is on me!"`.
 
-We will tackle the details of function writing in depth in an upcoming lab. For 
+We will tackle the details of function writing in depth in an upcoming lab. For
 now, briefly, a function declaration is written like so:
 
 ```js
